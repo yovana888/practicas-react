@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.colorRed{
+  background-color:red;
+  color:white;
+  margin-left: 10px;
+}
+
+.divColor{
+  margin-top:10px;
+  height:100px;
+  width:100px;
+  margin-left:10px;
+}
+.colorYellow{
+  background-color:yellow;
+  color:black;
+  margin-left: 10px;
+}
+
+.colorBlue{
+  background-color:blue;
+  color:white;
+  margin-left: 10px;
+}
